@@ -521,7 +521,7 @@ body {
 .hero-section {
   align-self: stretch;
   padding: clamp(50px, 8vw, 100px) clamp(20px, 5vw, 150px);
-  flex-direction: column;
+  /*flex-direction: column;*/
   justify-content: center;
   align-items: center;
   display: flex;
